@@ -1,2 +1,2 @@
 #   Naviagate to 
-src-> App -> Cypress ->  Cypress-test.js
+src-> app -> cypress ->  cypress-test.js
